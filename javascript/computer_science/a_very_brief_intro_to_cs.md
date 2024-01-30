@@ -1,3 +1,5 @@
+THIS IS ONLY A TEST. I AM FOLLOWING TOP'S CURRICULUM. PLEASE DO NOT ADD THESE CHANGES TO THE WEBSITE. THANKS.
+
 ### Introduction
 
 You've learned how to build some cool stuff already and, frankly, you could probably make some decent websites without a crazy amount of additional formal education. However, just because you can write English at a grade school level doesn't mean you will be editing the New York Times anytime soon.
